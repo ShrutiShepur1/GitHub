@@ -1,1 +1,2 @@
 # GitHub
+Shruti Shepur
